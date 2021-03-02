@@ -2,7 +2,7 @@
 # Atividade de Configuração da plataforma de Programação
 ## Exemplo de execucao
 O programa deveria printar na saida padrao o texto:
-> Ola, tudo bem? Eu sou `XXXXXX` e moro em `YYYYYYY`.
+> print( Ola, tudo bem? Eu sou "Gabriel" e moro em "Bebedouro")
 
 aonde:
 `XXXXXX` seria seu nome
